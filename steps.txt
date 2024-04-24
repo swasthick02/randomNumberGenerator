@@ -1,0 +1,22 @@
+Step-1 : create new index file.
+Step-2 : run npm init (to create a config file (package.json)).
+Step-3 : enter your package name.
+Step-4 : enter your package version.If your are doing it first leave it as version: (1.0.0).
+Step-5 : enter your package description.
+Step-6 : the it needs an entry point. Initially a file should be declared for this process.
+Step-7 : if you want test command add that.leave it.
+Step-8 : add your package git repository link.
+Step-9 : add Kewords of your package if you want.
+Step-10 : add author of your package if you want.
+Step-11 : skip lisence.
+Step-12 : type yes to confirm.Now a package.json file is created for our package.
+Step-12 : Add "type": "module" in package.json file.
+
+
+
+to deploy your package in https://www.npmjs.com/
+
+
+step-1 : create a README.md file
+step-1 : npm login
+
