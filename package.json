@@ -1,6 +1,6 @@
 {
   "name": "xyz_random_integer_generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is to generate random number generator",
   "main": "index.js",
   "type": "module",

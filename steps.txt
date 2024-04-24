@@ -18,5 +18,10 @@ to deploy your package in https://www.npmjs.com/
 
 
 step-1 : create a README.md file
-step-1 : npm login
+step-2 : npm login --> press enter ---> you will be redirected to browser --> login and comeback to terminal ---> you will see this login successful message (Logged in on https://registry.npmjs.org/.) 
+
+step-3 : use "npm whoami" command to see which user is logged in.
+step-4 : use "npm publish" command to publish your pakage.
+step-5 : use "npm publish" command to publish your pakage.
+
 
